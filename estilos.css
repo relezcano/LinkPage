@@ -3,11 +3,11 @@
 
 #contenedor {
   width: 960px;
-  margin-top: 0px;
+  margin-top: 70px;
   margin-right: auto;
   margin-bottom: 0px;
   margin-left: auto;
-  background-color: silver;
+  background-image: url("/home/relezcano/LinkPage/imagenes/fondo3.jpg");
   border-top: 3px solid black;
   border-right: 3px solid black;
   border-left: 3px solid black;
@@ -15,18 +15,96 @@
 }
 .titulo {
   font-size: 52px;
-  color:#00008B;
+  color: lime;
   text-align: center;
 }
 
 .subtitulo {
   font-size:36px;
-  color:#8B0000;
+  color:mediumspringgreen;
   text-align: center;
 }
 
 .parrafo {
   font-size: 20px;
-  color: red;
+  color: white;
   text-align: center;
+}
+
+.google {
+  width: 200px;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: 100px;
+  float: left;
+  margin-align: left;
+
+}
+
+.facebook {
+  width: 200px;
+  margin-align: center;
+  float: right;
+  margin-top: 0px;
+  margin-right: 100px;
+  margin-bottom: 0px;
+  margin-left: auto;
+}
+
+.gmail {
+  width: 200px;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+ margin-align: right;
+}
+
+.hotmail {
+  width: 200px;
+  margin-top: 5px;
+  margin-right: auto;
+  margin-bottom:5px;
+  margin-left: auto;
+  float: none;
+  }
+
+.yahoo {
+  width: 200px;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: 100px;
+  float: left;
+  margin-align: center;
+
+}
+
+.youtube {
+  width: 200px;
+  margin-top: 0px;
+  margin-right: 100px;
+  margin-bottom: 0px;
+  margin-left: auto;
+  float: right;
+
+}
+
+.pelis {
+  width: 200px;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+}
+
+#piepag {
+  width: 960px;
+  padding-top: 0px;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+  background-image: url("/home/relezcano/LinkPage/imagenes/fondo3.jpg");
 }
