@@ -3,26 +3,28 @@
 
 #contenedor {
   width: 960px;
-  margin-top: 70px;
+  margin-top: 20px;
   margin-right: auto;
   margin-bottom: 0px;
   margin-left: auto;
   background-image: url("/home/relezcano/LinkPage/imagenes/fondo3.jpg");
-  border-top: 3px solid black;
-  border-right: 3px solid black;
-  border-left: 3px solid black;
-  border-bottom: 3px solid black;
+  border-top: 3px solid lightblue;
+  border-right: 3px solid lightblue;
+  border-left: 3px solid lightblue;
+  border-bottom: 3px solid lightblue;
 }
 .titulo {
-  font-size: 52px;
-  color: lime;
+  font-size: 60px;
+  color: mediumspringgreen;
   text-align: center;
+  font-family: vintage;
 }
 
 .subtitulo {
-  font-size:36px;
-  color:mediumspringgreen;
+  font-size:30px;
+  color:darkturquoise;
   text-align: center;
+  font-family: verdana;
 }
 
 .parrafo {
@@ -32,11 +34,14 @@
 }
 
 .google {
+  backgruond-color: white;
+  padding-top: 1px;
+  padding-bottom: 1px;
   width: 200px;
   margin-top: 0px;
   margin-right: auto;
   margin-bottom: 0px;
-  margin-left: 100px;
+  margin-left: 170px;
   float: left;
   margin-align: left;
 
@@ -47,12 +52,16 @@
   margin-align: center;
   float: right;
   margin-top: 0px;
-  margin-right: 100px;
+  margin-right: 170px;
   margin-bottom: 0px;
   margin-left: auto;
 }
 
 .gmail {
+  background-color: white;
+  padding-top: 8px;
+  padding-bottom: 9px;
+  height: 80px;
   width: 200px;
   margin-top: 0px;
   margin-right: auto;
@@ -62,29 +71,37 @@
 }
 
 .hotmail {
+  background-color: white;
+  height: 70px;
   width: 200px;
-  margin-top: 5px;
+  padding-top: 25px;
+  padding-bottom: 10px;
+  margin-top: 10px;
   margin-right: auto;
-  margin-bottom:5px;
+  margin-bottom:10px;
   margin-left: auto;
   float: none;
   }
 
 .yahoo {
+  background-color: white;
+  padding-top: 15px;
+  padding-bottom: 10px;
   width: 200px;
+  height: 80px;
   margin-top: 0px;
   margin-right: auto;
   margin-bottom: 0px;
-  margin-left: 100px;
+  margin-left: 170px;
   float: left;
-  margin-align: center;
+  margin-align: left;
 
 }
 
 .youtube {
   width: 200px;
   margin-top: 0px;
-  margin-right: 100px;
+  margin-right: 170px;
   margin-bottom: 0px;
   margin-left: auto;
   float: right;
@@ -92,6 +109,8 @@
 }
 
 .pelis {
+  background-color: white;
+  padding-top: 1px;
   width: 200px;
   margin-top: 0px;
   margin-right: auto;
@@ -101,7 +120,6 @@
 
 #piepag {
   width: 960px;
-  padding-top: 0px;
   margin-top: 0px;
   margin-right: auto;
   margin-bottom: 0px;
